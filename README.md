@@ -1,12 +1,10 @@
 # Shree-Hotels-Dashboard
-**1. Project Title / Headline:**
-
-Shree Hotels Analytics: Comprehensive Hotel Operations & Performance Intelligence Dashboard
+**1. Shree Hotels Analytics: Comprehensive Hotel Operations & Performance Intelligence Dashboard**
 
 A robust, interactive Power BI dashboard developed to analyze hotel branch performance, operational capacity, facility distribution, and service readiness across multiple locations. The dashboard transforms raw hotel data into meaningful business insights that support strategic decision-making in the hospitality industry.
 
 
-**2. Short Description / Purpose:**
+**2. Short Description:**
 
 The Shree Hotels Analytics Dashboard is a data-driven Power BI reporting solution designed to provide hotel management with a centralized and holistic view of their operations. The dashboard enables users to evaluate branch-wise performance, compare infrastructure and facilities, assess service quality, and identify opportunities for operational improvement and business growth.
 
