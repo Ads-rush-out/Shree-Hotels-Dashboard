@@ -135,5 +135,5 @@ The dashboard provides measurable value by enabling faster decisions, better res
 **7. Screenshots / Demos:**
 ![Dashboard_Preview](https://github.com/Ads-rush-out/Shree-Hotels-Dashboard/blob/main/KPI%20Summery%20Dashboard%20.png)
 ![Dashboard_Preview](https://github.com/Ads-rush-out/Shree-Hotels-Dashboard/blob/main/Overview%20Dashboard%20.png)
-![Dashboard_Preview](https://github.com/Ads-rush-out/Shree-Hotels-Dashboard/blob/main/Guest%20Dashboard.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Shree-Hotels-Dashboard/blob/main/Guest%20Dashboard%20.png)
 
