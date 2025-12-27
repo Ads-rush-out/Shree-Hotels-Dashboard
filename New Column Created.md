@@ -465,31 +465,16 @@ Have suggestions for new measures or optimizations? Contributions are welcome!
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## ⭐ Show Your Support
+## 👨‍💻 Author
 
-If you found these DAX measures helpful, please give this repository a ⭐️!
+- GitHub: https://github.com/Ads-rush-out
+- Email: adarshkumarrout01@gmail.com
+- Linkedin: www.linkedin.com/in/adarsh-rout
 
 ---
-
-<div align="center">
-
-**Built with 💡 DAX expertise and ❤️ for data analytics**
-
-*Last Updated: December 2025*
-
-</div>
