@@ -1,13 +1,5 @@
 # 🏨 Hotel Analytics Dashboard - DAX Measures & Calculations
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-Hotel%20Industry-blue?style=for-the-badge)
-
-> **Comprehensive DAX Measures for Hotel Performance Analytics**
-
-A complete collection of DAX measures and calculated columns designed for hotel revenue management, occupancy tracking, and performance analysis in Power BI.
-
 ---
 
 ## 📊 Overview
