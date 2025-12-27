@@ -179,6 +179,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🖼️ Dashboard Preview
 
 ![Dashboard_Preview](https://github.com/Ads-rush-out/Shree-Hotels-Dashboard/blob/main/Project/KPI%20Summery%20Dashboard%20.png)
-![Dashboard_Preview]()
+![Dashboard_Preview](https://github.com/Ads-rush-out/Shree-Hotels-Dashboard/blob/main/Project/Overview%20Dashboard%20.png)
 ![Dashboard_Preview]()
 ```
