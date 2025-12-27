@@ -365,46 +365,6 @@ WEEKNUM('Date Table'[Date])
 
 ---
 
-## 🚀 Advanced Usage Tips
-
-### Creating Display Folders
-Organize measures in Power BI:
-```
-📁 Occupancy Metrics
-   - Total Occupied Rooms
-   - Total Rooms Booked
-   - Occupancy Rate
-
-📁 Revenue Metrics
-   - Total Revenue
-   - Average Daily Rate (ADR)
-   - RevPAR
-   
-📁 Night Type Analysis
-   - Week Night Rev
-   - Weekend Night Rev
-   - Total Weekend Nights
-   - Total Weekday Nights
-```
-
-### Performance Optimization
-- Use **Variables** in complex measures to avoid recalculation
-- Create a separate **Measures Table** for cleaner data model
-- Use **COUNTROWS** instead of COUNT for better performance
-
-### Example with Variables:
-```dax
-Optimized RevPAR = 
-VAR OccupiedRooms = [Total Occupied Rooms]
-VAR TotalBooked = [Total Rooms Booked]
-VAR OccRate = DIVIDE(OccupiedRooms, TotalBooked, 0)
-VAR AvgRate = [Average Daily Rate (ADR)]
-RETURN
-AvgRate * OccRate
-```
-
----
-
 ## 📊 Suggested Visualizations
 
 ### Dashboard Layout Recommendations
