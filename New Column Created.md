@@ -440,24 +440,6 @@ AvgRate * OccRate
 
 ---
 
-## 🤝 Contributing
-
-Have suggestions for new measures or optimizations? Contributions are welcome!
-
-1. Fork the repository
-2. Create your feature branch
-3. Add your DAX measures with clear documentation
-4. Submit a pull request
-
----
-
-## 📚 Resources
-
-### Learn More About These Concepts:
-- [Microsoft DAX Function Reference](https://learn.microsoft.com/en-us/dax/)
-- [SQLBI - DAX Guide](https://dax.guide/)
-- [Hotel Industry KPIs](https://www.hospitalitynet.org/)
-
 ### Key Terms:
 - **ADR (Average Daily Rate)**: Average rental revenue per occupied room
 - **RevPAR (Revenue Per Available Room)**: ADR × Occupancy Rate
